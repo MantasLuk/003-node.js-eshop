@@ -1,0 +1,1 @@
+// funkcija, kuri skaiciuoja uz kiek galima suprekiauti likurias prekes

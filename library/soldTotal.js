@@ -1,0 +1,1 @@
+// visu parduotu prekiu kiekis

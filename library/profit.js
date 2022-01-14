@@ -1,0 +1,1 @@
+// funkcija, uz kiek suprekiauta

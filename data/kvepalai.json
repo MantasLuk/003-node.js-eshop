@@ -1,0 +1,9 @@
+{
+    "name": "Raudoni",
+    "price": {
+        "value": 15.00,
+        "curency": "EUR"
+    },
+    "inStock": 4,
+    "sold": 7
+}
